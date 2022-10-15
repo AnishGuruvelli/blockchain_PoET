@@ -11,3 +11,5 @@ The node with the shortest wait time will wake up first and win the block, thus 
 The PoET workflow is similar to Bitcoin's proof of work (PoW) but consumes less power because it allows a node to sleep and switch to other tasks for the specified time, thereby increasing network energy efficiency.
 <br/>
 Proof of elapsed time uses much less energy than proof of work since it randomly selects a node instead of using all the miners on a network in a competition.
+
+
