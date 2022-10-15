@@ -15,3 +15,14 @@ The PoET workflow is similar to Bitcoin's proof of work (PoW) but consumes less 
 Proof of elapsed time uses much less energy than proof of work since it randomly selects a node instead of using all the miners on a network in a competition.
 
 
+<br/>
+## GROUP 46
+<br/>
+ANISH GURUVELLI 2020A2PS2418H
+<br/>
+RAJ ARYAN 
+<br/>
+SRICHAITANYA
+<br/>
+Subashish
+<br/>
