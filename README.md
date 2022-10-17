@@ -26,3 +26,11 @@ SRICHAITANYA 2020A2PS2533H
 <br/>
 Sibasish 2020A1PS2360H
 <br/>
+
+## PROBLEM STATEMENT
+
+You buy a piece of land. Someone else claims to own the land. But the one who sold you the land
+showed you the paperwork. The land registry office earlier said that the owner was rightful. Now
+they say that they made a mistake – it was owned by the other person. You already paid for the
+land – to the first person. The First person goes missing, how does anyone prove who changed
+the land record?
