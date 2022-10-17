@@ -36,3 +36,28 @@ showed you the paperwork. The land registry office earlier said that the owner w
 they say that they made a mistake – it was owned by the other person. You already paid for the
 land – to the first person. The First person goes missing, how does anyone prove who changed
 the land record?
+<br/>
+<br/>
+In order to prevent such errors from happening, you need to build a land management system
+with the following features
+<br/>
+1. To register new users to the system with previously owned property
+2. The user should be able to buy and sell the property.
+3. To improve the security of the blockchain, incorporate a consensus algorithm that has
+been assigned to the group.
+4. Implementation of Merkle root to calculate the hash of all the transactions in a block.
+5. To be able to view the transaction history that is related to a property.
+<br/>
+<br/>
+The different consensus algorithms that you will be implementing are
+<br/>
+Proof Of Stake (PoS)
+<br/>
+Proof of Elapsed Time (PoET)
+<br/>
+Delegated Proof-of-Stake (DPoS)
+<br/>
+Proof of Work (PoW)
+<br/>
+
+<i>https://drive.google.com/file/d/1w-XHA0QZeSzjrqxvRK6pbZGRH7sg7IIe/view?ts=633ac10f</i>
