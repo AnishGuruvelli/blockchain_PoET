@@ -1,8 +1,7 @@
 ## LAND MANAGEMENT SYSTEM : PoET Algorithm
-<hr>
 <br/>
 <br/>
-Proof of elapsed time (PoET) is a consensus algorithm developed by Intel Corporation that enables permissioned blockchain networks to determine who creates the next block.
+<b>Proof of elapsed time (PoET)</b> is a consensus algorithm developed by Intel Corporation that enables permissioned blockchain networks to determine who creates the next block.
 <br/>
 PoET follows a lottery system that spreads the chances of winning equally across network participants, giving every node the same chance.
 <br/>
@@ -16,7 +15,8 @@ Proof of elapsed time uses much less energy than proof of work since it randomly
 
 
 <br/>
-## GROUP 46
+<hr>
+<h2>GROUP 46</h2>
 <br/>
 ANISH GURUVELLI 2020A2PS2418H
 <br/>
@@ -26,8 +26,10 @@ SRICHAITANYA 2020A2PS2533H
 <br/>
 Sibasish 2020A1PS2360H
 <br/>
+<hr>
 
-## PROBLEM STATEMENT
+<h2>PROBLEM STATEMENT</h2>
+
 
 You buy a piece of land. Someone else claims to own the land. But the one who sold you the land
 showed you the paperwork. The land registry office earlier said that the owner was rightful. Now
