@@ -20,9 +20,9 @@ Proof of elapsed time uses much less energy than proof of work since it randomly
 <br/>
 ANISH GURUVELLI 2020A2PS2418H
 <br/>
-RAJ ARYAN 
+RAJ ARYAN 2020A2PS2444H
 <br/>
-SRICHAITANYA
+SRICHAITANYA 2020A2PS2533H
 <br/>
-Subashish
+Sibasish 2020A1PS2360H
 <br/>
